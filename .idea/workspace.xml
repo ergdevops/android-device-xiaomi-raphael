@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf70a7e9-d134-4f90-9488-04ae0a56921f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AndroidProducts.mk" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidProducts.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corvus_raphael.mk" beforeDir="false" afterPath="$PROJECT_DIR$/lineage_raphael.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/device.mk" beforeDir="false" afterPath="$PROJECT_DIR$/device.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-corvus/frameworks/base/core/res/res/values/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-corvus/frameworks/base/packages/SystemUI/res/drawable-nodpi/udfps_icon_pressed.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-corvus/frameworks/base/packages/SystemUI/res/values/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-corvus/frameworks/base/packages/SystemUI/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-corvus/packages/apps/Settings/res/values/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay/packages/apps/Settings/res/values/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/overlay/packages/apps/Settings/res/values/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendorsetup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vendorsetup.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HAJdDJVaklbh30CwTRQWSYS38u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/erg/Projects/android/android-device-xiaomi-raphael-crdroid&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf70a7e9-d134-4f90-9488-04ae0a56921f" name="Changes" comment="" />
+      <created>1667722039870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667722039870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
